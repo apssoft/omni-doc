@@ -1,7 +1,9 @@
-baseURL = "/"
+baseURL = "https://apssoft.github.io/omni-doc/"
 title = "Docsy Example"
 
 enableRobotsTXT = true
+
+canonifyurls = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["docsy"]
@@ -110,7 +112,7 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://apssoft.github.io/omni-doc"
+url_latest_version = "https://apssoft.github.io/omni-doc/"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/apssoft/omni-doc"
