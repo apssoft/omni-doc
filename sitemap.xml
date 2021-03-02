@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/meetup/002/</loc>
+    <loc>https://apssoft.github.io/omni-doc/meetup/002/</loc>
     <lastmod>2021-03-02T09:13:38+09:00</lastmod>
   </url><url>
-    <loc>/meetup/001/</loc>
+    <loc>https://apssoft.github.io/omni-doc/meetup/001/</loc>
     <lastmod>2021-03-02T09:13:38+09:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://apssoft.github.io/omni-doc/</loc>
     <lastmod>2021-03-02T09:13:38+09:00</lastmod>
   </url><url>
-    <loc>/meetup/</loc>
+    <loc>https://apssoft.github.io/omni-doc/meetup/</loc>
     <lastmod>2021-03-02T09:13:38+09:00</lastmod>
   </url>
 </urlset>
